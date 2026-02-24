@@ -1,0 +1,7 @@
+{
+  "name": "Thế Giới Khủng Long Tí Hon",
+  "description": "Ứng dụng AI giúp trẻ mầm non khám phá thế giới khủng long qua hình ảnh, tranh vẽ và hoạt động tô màu sáng tạo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
